@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "944486425338",
+    "project_id": "coppa-d9156",
+    "storage_bucket": "coppa-d9156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944486425338:android:93a59d74297b6d24cd1f43",
+        "android_client_info": {
+          "package_name": "com.example.flutter_getx_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944486425338-otei28sjarlt8j5v7meur5er6klbn6ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUfEozR2ZFzCsgrSi3u5YomS-Fko_x80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944486425338-otei28sjarlt8j5v7meur5er6klbn6ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944486425338-dlbsirgkfpmv9uot6ooi4jkq633cgnq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterGetxLearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
